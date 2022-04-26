@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Superhuman: Elon Musk</title>
+        <link type="text/css" rel="stylesheet" href="elonmusk.css">
+    </head>
+    <body>
+        <header>
+            <h1 align="center">Superhuman: Elon Musk</h1>
+        </header>
+        <main>
+            <div align="center">
+                <img src="elonmusk.jpg" alt="Elon Musk" style="width:40vw">
+                <p>Elon Musk offers to buy Twitter for $44B</p>
+            </div>
+        </main>
+        <footer>
+
+        </footer>
+    </body>
+</html>
