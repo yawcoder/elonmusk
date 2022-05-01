@@ -1,5 +1,6 @@
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: groove 10px red;
 }
 body{
     background:url(https://cdn-media-1.freecodecamp.org/imgr/MJAkxbh.png);
